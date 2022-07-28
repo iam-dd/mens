@@ -1,0 +1,12 @@
+.top-line__link {
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ text-decoration: none;
+ color: #969696;
+ font-family: 'PT Sans';
+ font-weight: normal;
+ font-size: 12px;
+ line-height: 15.53px;
+}
+

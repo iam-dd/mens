@@ -1,0 +1,33 @@
+.nav-bar__link {
+  height: 100%;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-family: normal;
+  color: #969696;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 31px 20px;
+  position: relative;
+  z-index: 0;
+  
+}
+
+.nav-bar__link::before {
+  content: '';
+  background: #1F1F1F;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  opacity: 0;
+}
+
+.nav-bar__link:hover::before {
+  opacity: 1;
+  border-bottom: 2px solid #fff;
+}

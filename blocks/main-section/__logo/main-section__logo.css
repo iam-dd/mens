@@ -1,0 +1,41 @@
+.main-section__logo {
+  height: 320px;
+  width: 320px;
+  position: relative;
+  position: absolute;
+  top: 20%;
+  left: 42%;
+  box-sizing: border-box;
+  padding: 93px 66px;
+
+}
+
+.main-section__logo::before {
+  content: '';
+  border: 4px solid #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  animation-name: square-rotate;
+  animation-duration: 60s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+}
+
+.main-section__logo::after {
+  content: '';
+  border: 4px solid #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  animation-name: square-rotate;
+  animation-duration: 60s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: reverse;
+}

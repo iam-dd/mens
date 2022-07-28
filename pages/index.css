@@ -1,0 +1,64 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+  @import url(../blocks/page/page.css);
+    @import url(../blocks/button/button.css);
+    @import url(../blocks/button/_catalog/button_catalog.css);
+    @import url(../blocks/button/_collection/button_collection.css);
+
+@import url(../blocks/title/title.css);
+  @import url(../blocks/title/_catalog/title_catalog.css);
+  @import url(../blocks/title/_collection/title_collection.css);
+  @import url(../blocks/title/_watch-block/title_watch-block.css);
+
+
+@import url(../blocks/top-line/top-line.css);
+  @import url(../blocks/top-line/__contact-list/top-line__contact-list.css);
+  @import url(../blocks/top-line/__regenter-block/top-line__regenter-block.css);
+  @import url(../blocks/top-line/__link/top-line__link.css);
+  @import url(../blocks/top-line/__icon-door/top-line__icon-door.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__word/logo__word.css);
+
+@import url(../blocks/nav-bar/nav-bar.css);
+  @import url(../blocks/nav-bar/__icon-link/nav-bar__icon-link.css);
+  @import url(../blocks/nav-bar/__icon/nav-bar__icon.css);
+  @import url(../blocks/nav-bar/__menu/nav-bar__menu.css);
+  @import url(../blocks/nav-bar/__list-icons/nav-bar__list-icons.css);
+  @import url(../blocks/nav-bar/__link/nav-bar__link.css);
+
+@import url(../blocks/main-section/main-section.css);
+  @import url(../blocks/main-section/__logo/main-section__logo.css);
+  @import url(../blocks/main-section/__title/main-section__title.css);
+  @import url(../blocks/main-section/__subtitle/main-section__subtitle.css);
+  @import url(../blocks/main-section/__paragraph/main-section__paragraph.css);
+
+  @import url(../blocks/main-section/animation/animation.css);
+
+@import url(../blocks/watch-block/watch-block.css);
+  @import url(../blocks/watch-block/_small_section/watch-block_small-section.css);
+  @import url(../blocks/watch-block/_big-section/watch-block_big-section.css);
+
+
+  @import url(../blocks/watch-cards/watch-cards.css);
+  @import url(../blocks/watch-cards/__item/watch-cards__item.css);
+  @import url(../blocks/watch-cards/__image/watch-cards__image.css);
+  @import url(../blocks/watch-cards/__watch-model/watch-cards__watch-model.css);
+  @import url(../blocks/watch-cards/__watch-price/watch-cards__watch-price.css);
+
+  @import url(../blocks/watch-cards/_big-section/watch-cards_big-section.css);
+  
+
+@import url(../blocks/catalog/catalog.css);
+  @import url(../blocks/catalog/_content/catalog_content.css);
+  @import url(../blocks/catalog/__title/catalog__title.css);
+  
+@import url(../blocks/kaftan/kaftan.css);
+
+@import url(../blocks/collection/collection.css);
+  @import url(../blocks/collection/__paragraph/collection__paragraph.css);
+  @import url(../blocks/collection/_content/collection_content.css);
+    
+
+

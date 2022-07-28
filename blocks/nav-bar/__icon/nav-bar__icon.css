@@ -1,0 +1,8 @@
+.nav-bar__icon {
+  width: 16.5px;
+}
+
+.nav-bar__icon:first-child {
+  margin: 0 43px 0 0;
+  width: 22px;
+}

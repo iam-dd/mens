@@ -1,0 +1,7 @@
+.nav-bar__list-icons {
+  list-style: none;
+  margin: 0;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: row;
+}

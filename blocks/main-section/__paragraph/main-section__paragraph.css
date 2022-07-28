@@ -1,0 +1,14 @@
+.main-section__paragraph {
+  max-width: 730px;
+  color: #fff;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  position: absolute;
+  top: 70%;
+  left: 32%;
+  text-transform: uppercase;
+  text-align: center;
+}
+

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Post No Bills Jaffna';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Post No Bills Jaffna Regular'),
+   url('PostNoBillsJaffna-Bold.woff') format('woff');
+  }
+
+@font-face {
+    font-family: 'PT Sans';
+    src: local('PT Sans'), local('PTSans-Regular'),
+        url('PTSans-Regular.woff2') format('woff2'),
+        url('PTSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'),
+      url('PlayfairDisplay-Regular.woff2') format('woff2'),
+      url('PlayfairDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

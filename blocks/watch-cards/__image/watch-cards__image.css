@@ -1,0 +1,8 @@
+.watch-cards__image {
+  box-sizing: border-box;
+  height: 325px;
+  width: 260px;
+  margin: 0 auto;
+  padding: 55px 22px;
+  background-color: #191B1C;
+}

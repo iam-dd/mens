@@ -1,0 +1,14 @@
+.catalog {
+  grid-row: 4;
+  grid-column: 2;
+  place-self: end;
+  width: 880px;
+  height: 740px;
+  background-image: url(../../images/collection.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+
+}

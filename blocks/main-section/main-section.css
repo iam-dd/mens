@@ -1,0 +1,10 @@
+.main-section {
+  min-height: 100vh;
+  background-image: url(../../images/bckgrnd.jpg);
+  background-repeat: no-repeat;
+  grid-row: 3;
+  grid-column: span 2;
+  position: relative;
+  z-index: -1;
+}
+

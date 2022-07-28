@@ -1,0 +1,9 @@
+.watch-cards__item {
+  display: flex;
+  flex-direction: column;
+  transition: .3s;
+}
+
+.watch-cards__item:hover {
+  transform: translateY(-10px);
+}

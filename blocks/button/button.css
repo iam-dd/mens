@@ -1,0 +1,23 @@
+.button {
+  padding: 12px 20px;
+  text-decoration: none;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  border: 1px solid #fff;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif ;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 10%;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  transition: .5s;
+}
+
+
+.button:hover {
+  transform: scale(1.05);
+
+}

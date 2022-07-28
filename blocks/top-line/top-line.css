@@ -1,0 +1,9 @@
+.top-line {
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  grid-row: 1;
+  grid-column: span 2;
+  box-sizing: border-box;
+}

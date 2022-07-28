@@ -1,0 +1,17 @@
+.logo__word {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100%;
+  min-height: 80px;
+  margin: 0;
+  padding: 16px;
+  color: #fff;
+  font-family: 'Post No Bills Jaffna', Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: center;
+  animation-name: word-fly;
+  animation-duration: 2s;
+  
+  }

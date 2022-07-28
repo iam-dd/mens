@@ -1,0 +1,9 @@
+.page {
+  min-width: 320px;
+  max-width: 1920px;
+  min-height: 100vh;
+  background-color: #000;
+  margin: 0 auto;
+  display: grid;
+  grid: repeat(9, min-content) / 1fr 1fr;
+}

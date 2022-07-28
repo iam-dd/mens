@@ -1,0 +1,5 @@
+.watch-block_big-section {
+  grid-row: 6;
+  grid-column: span 2;
+  margin: 0 425px;
+}
